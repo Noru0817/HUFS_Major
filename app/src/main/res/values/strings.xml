@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mylab</string>
+    <string name="join_studentId">학번</string>
+</resources>
