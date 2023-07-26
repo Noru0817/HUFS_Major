@@ -31,7 +31,7 @@
             android:id="@+id/login"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="login"
+            android:text="로그인"
             android:layout_weight="1"
             android:layout_marginRight="5dp"/>
 
